@@ -1,0 +1,7 @@
+{
+  "name": "Voice 2 Notes AI",
+  "description": "An AI-powered web application that transforms spoken lectures into summarized notes, quizzes, and flashcards. Users can record audio live and receive structured, easy-to-study materials.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
